@@ -8,7 +8,7 @@ This React application allows users to type their name and be greeted in real-ti
 
 ## Screenshot
 
-- ![App Screenshot](./src./screenshot.png)
+![App Screenshot](./src./screenshot.png)
 
 
 ## Run Locally
